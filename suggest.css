@@ -1,0 +1,11 @@
+body {background-color:#dbd2e3;
+      width: 70%;
+      margin: 0 auto}
+form {border-width:3px}
+sup {font-size:10px}
+#return {font-size:10px;
+         color:black;
+         background-color:white;
+         padding-left:3px;
+         padding-right:3px}
+#return:hover {background-color:#F0F0F0}
